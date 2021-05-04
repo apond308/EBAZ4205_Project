@@ -12,4 +12,4 @@ Since the directory that holds all setup scripts is over 5GB, I will link the re
 
 ## FPGA Setup
 
-For programming the FPGA, I used vivado. Inside of the vivado directory, there is a project for the logic portion of the project. You should be able to open it with Vivado 2020.1 and generate a bitstream.
+For programming the FPGA, I used vivado. Inside of the vivado directory, there is a project for the logic portion of the project. You should be able to open it with Vivado 2020.1 and generate a bitstream. HDL sources are found in the 'srcs' directory.
